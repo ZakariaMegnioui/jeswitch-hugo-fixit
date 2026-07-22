@@ -1,6 +1,3 @@
 [build]
-  command = "hugo --gc --minify"
+  command = "echo 'Static public folder'"
   publish = "public"
-
-[functions]
-  directory = "netlify/functions"
