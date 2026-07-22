@@ -48,3 +48,6 @@ $RECYCLE.BIN/
 
 ## Linux
 .directory
+
+# Local Netlify CLI state
+.netlify/
